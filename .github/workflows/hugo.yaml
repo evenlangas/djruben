@@ -60,6 +60,8 @@ jobs:
       #       --gc \
       #       --minify \
       #       --baseURL "${{ steps.pages.outputs.base_url }}/" 
+      - name: Install with npm
+        run: npm install
       - name: Build with npm
         run: npm run build
       - name: Upload artifact
