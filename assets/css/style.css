@@ -2543,6 +2543,10 @@ video {
   border-width: 0;
 }
 
+.collapse {
+  visibility: collapse;
+}
+
 .absolute {
   position: absolute;
 }
