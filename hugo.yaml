@@ -1,4 +1,4 @@
-baseURL: './djruben'
+baseURL: 'https://evenlangas.github.io/djruben/'
 title: TailBliss
 languageCode: en-us
 DefaultContentLanguage: en
