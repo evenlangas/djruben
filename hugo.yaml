@@ -1,11 +1,11 @@
-baseURL: ''
+baseURL: 'https://evenlangas.github.io/djruben/'
 title: DJ Ruben
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
-canonifyURLs: true
+canonifyURLs: false
 paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
