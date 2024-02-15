@@ -115,7 +115,7 @@ menu:
   footer:
     - identifier: kontaktmeg
       name: Kontakt meg
-      url: /kontaktmeg
+      url: mailto:ruben.f.pettersen@gmail.com
       weight: 50
 
 markup:
