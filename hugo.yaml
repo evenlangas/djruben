@@ -1,4 +1,4 @@
-baseURL: 'https://evenlangas.github.io/djruben/'
+baseURL: ''
 title: DJ Ruben
 languageCode: en-us
 DefaultContentLanguage: en
@@ -60,7 +60,7 @@ params:
     content:
       - text: "Jeg er en DJ fra Arendal med 9 års erfaring i ryggen. Løpet av min karriere har jeg spilt på nattklubber​,​ eventer​,​ bryllup og pubber over hele Norge. Jeg har varmet opp for større artister som Basshunter​,​ Italobrothers​,​ Tix​,​ Kamelen​,​ Dårlig vane​,​ kung skurk one​,​ El Papi​,​ Staysman og Lazz​,​ Meland x Hauken og Morgan Sulele for og nevne noen." 
       - text: ""
-      - text: "Ta kontakt for mer info."
+      - text: ""
   p3:
     heading: "Backed by world-renowned investors"
     content:
@@ -92,16 +92,16 @@ params:
 
   social_media:
     github:
-      enabled: true
+      enabled: false
       url: 'https://github.com/nusserstudios'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/DjRubennn/'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.instagram.com/djrubennn/'
     twitter:
-      enabled: true
+      enabled: false
       url: '@nusserstudios'
     
 
