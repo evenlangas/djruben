@@ -51,7 +51,7 @@ params:
   og_image: /images/ruben2.png
   moto: "Garantisten for feststemning"
   description: "Jeg setter tonen for uforglemmelige øyeblikk. Fra klubber til bryllup og bedriftsevents, leverer jeg pulsøkende beats og stemningsfulle melodier. La oss skape musikalsk magi sammen!"
-  disable_theme_toggle: false
+  disable_theme_toggle: true
   disable_stay_uptodate: false
 
   p1:
