@@ -107,18 +107,10 @@ params:
 
 menu:
   main:
-    - identifier: produkter
-      name: Produkter
-      url: /produkter/
+    - identifier: booknaa
+      name: Book nå
+      url: https://tally.so/r/w2P2YV
       weight: 10
-    - identifier: kontaktmeg
-      name: Kontakt meg
-      url: /kontaktmeg/
-      weight: 20
-    - identifier: ommeg
-      url: /ommeg/
-      name: Om meg
-      weight: 30
     
   footer:
     - identifier: kontaktmeg
